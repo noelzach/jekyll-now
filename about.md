@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am a PhD candidate in Plant Pathology & Evolutionary Ecology Biology and Behavior at Michigan State University. I am part of the field crop pathology team with Dr. Martin Chilvers and study oomycete soil-borne diseases that cause root rot. Even though I have many collaborative projects, my research is focused on understanding how soybean seed treatments influence microbial communities. I use high-throughput phenotyping, high-throuput sequencing, genetics, ecology and evolution to understand how oomycete communities change given specifc seed treatments. This information is useful for farmers looking to apply seed treatments based on their specifc disease problems. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[noelzach@msu.edu](mailto:noelzach@msu.edu)
