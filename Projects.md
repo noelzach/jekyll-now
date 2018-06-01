@@ -4,7 +4,7 @@ title: Projects
 permalink: /Projects/
 ---
 
-###Projects I currently work on
+Projects I currently work on
 
 All are links to github repositories. Some links are active, some are not since nothing has been added to them yet. However, check back frequently as I update pages all the time! 
 
@@ -13,7 +13,7 @@ All are links to github repositories. Some links are active, some are not since 
 * [Oomycete Community Response to Soybean Seed Treatments]()
 * [Fungicide Resistance Evolution & Mechanisms]()
 
-###Colaborative Projects
+Colaborative Projects
 
 * [Soybean Sudden Death Syndrome (SDS) Risk Assesment](https://github.com/rothmi12/SDS-Risk-Assessment)
 * [Fungal Communities in Apple Orchards](https://github.com/noelzach/Fungal-ITS-Apple-Roots)
