@@ -5,4 +5,5 @@ permalink: /links/
 ---
 
 * [R-bloggers](http://www.r-bloggers.com/)
-* [data.table](https://github.com/Rdatatable/data.table/wiki)
+* [Chilvers Lab](https://fieldcroppathology.msu.edu/)
+* [American Phytopathological Society](www.apsnet.org)
