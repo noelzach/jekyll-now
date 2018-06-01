@@ -8,4 +8,4 @@ I am a PhD candidate in Plant Pathology & Evolutionary Ecology Biology and Behav
 
 This website is a work in progress, please keep checking back for more updates!
 
-My CV: ![My CV](ZAN_CV.pdf)
+[CV](ZAN_CV.pdf)
