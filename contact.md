@@ -4,10 +4,8 @@ title: Contact
 permalink: /contact/
 ---
 
-####Contact me
-
-* [Email:](noelzach@msu.edu)
-* [github:](https://github.com/noelzach)
+* Email:(noelzach@msu.edu)
+* [github](https://github.com/noelzach)
 * [Twitter](https://twitter.com/ZacharyNoel4)
-* [Linkedin:](https://www.linkedin.com/in/zachary-noel-49884990/)
+* [Linkedin](https://www.linkedin.com/in/zachary-noel-49884990/)
 
