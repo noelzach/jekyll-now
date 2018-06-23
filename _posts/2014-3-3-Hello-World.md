@@ -5,7 +5,7 @@ layout: post
 
 Recently, I tweeted about a science gadget I 3D printed for myself (see tweet below)
 
-[![Irackpicutre](rackpicture.png)](https://twitter.com/ZacharyNoel4/status/1006588787617681408)
+[![rackpicture](rackpicture.png)](https://twitter.com/ZacharyNoel4/status/1006588787617681408)
 
 The tweet gained so much attention, which was unintended. It was great! But I honestly had no idea that this tweet would get almost 70K impressions, 12K engagements, 1K likes and 200 retweets. Twitter has been an exceptional place for scientists, like myself, to get information out quickly, communicate and share cool science tips and tricks. 
 
